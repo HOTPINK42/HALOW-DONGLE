@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR";1;"TLV75533PDBVR";;;
+2;"U2";"USB-C-SMD_G-SWITCH_GT-USB-7010ASV";1;"GT-USB-7010ASV";;;
+3;"C2,C3,C1,C6,C4";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";5;"10uF";;;
+4;"U3";"SOT-23-6";1;"USBLC6-2SC6";;;
+5;"R2,R3";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";2;"5k1";;;
+6;"JP1";"RF-SMD_FRF05002-JSS103M";1;"U.FL-R-SMT-1(80)";;;
+7;"C7";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"2.2 uF";;;
+8;"MM8108-MF1";"MM8108-MF15457";1;"~";;;
+9;"R1";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"220K";;;
+10;"C5";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"1uF";;;

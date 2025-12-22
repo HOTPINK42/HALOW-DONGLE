@@ -2163,6 +2163,26 @@
 		)
 		(uuid "fb846c4c-221c-4e50-b6ae-eb15621066c9")
 	)
+	(label "D -"
+		(at 68.58 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3cd1bf5a-4b05-4727-b1a7-7c5371bc28d4")
+	)
+	(label "D +"
+		(at 68.58 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8851753e-aa71-4d90-9aa3-e26db29222ba")
+	)
 	(label "reset"
 		(at 86.36 119.38 0)
 		(effects

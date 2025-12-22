@@ -1,0 +1,21 @@
+### Footprint positions - created on 2025-12-19T16:17:53-0500 ###
+### Printed by KiCad version 9.0.6-1.fc42
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref       Val               Package                                           PosX       PosY       Rot  Side
+C1          10uF              C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   127.0000   -81.2000   90.0000  top
+C2          10uF              C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   126.7000   -96.0625  -90.0000  top
+C3          10uF              C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   128.6000   -96.0625  -90.0000  top
+C4          10uF              C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   124.6000   -96.0625   90.0000  top
+C5          1uF               C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   118.5000  -101.5000    0.0000  top
+C6          10uF              C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   118.5000   -95.5000    0.0000  top
+C7          2.2_uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   124.3000   -80.2000    0.0000  top
+JP1         U.FL-R-SMT-1(80)  RF-SMD_FRF05002-JSS103M                       119.0000   -80.0000    0.0000  top
+MM8108-MF1  ~                 MM8108-MF15457                                118.0000   -84.2000    0.0000  top
+R1          220K              R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   124.3000   -82.2000  180.0000  top
+R2          5k1               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   118.5000  -103.5000  180.0000  top
+R3          5k1               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   128.5000  -103.5000    0.0000  top
+U1          TLV75533PDBVR     SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR             118.5000   -98.5000  -90.0000  top
+U2          GT-USB-7010ASV    USB-C-SMD_G-SWITCH_GT-USB-7010ASV             123.5000  -108.4325    0.0000  top
+U3          USBLC6-2SC6       SOT-23-6                                      123.5000  -101.2625   90.0000  top
+## End
