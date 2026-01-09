@@ -513,7 +513,7 @@
       "plot": "Output-R01/",
       "pos_files": "Output-R01/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "HALOW-USB.step",
       "svg": "",
       "vrml": ""
     },
